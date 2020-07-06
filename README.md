@@ -31,6 +31,7 @@ Bot Feature :
   "╠❂➣ " "/website :「query",
   "╠❂➣ " "/google  :「query",
   "╠❂➣ " "/images  :「query",
+  "╠❂➣ " "/fload   :「count 「text "
   "╚════════════════════╝"
 
 Feature Explained : 
@@ -42,7 +43,7 @@ Feature Explained :
 !╠❂➣ "/website": To see dan take a screenshot from a website (example of use: /website www,google,com use (, don't .))
 !╠❂➣ "/google" : To take a screenshot from a google search (example of use: /google whats is python programing?)
 !╠❂➣ "/images" : To take a screenshot from a google images (example of use: /images python programming)
-
+!╠❂➣ "/fload"  : To spam pipel
 note : u need to change language code from file autoreply/pacalku.py to your language code like (id for indonesia, en for english)
 ```
 
@@ -56,7 +57,6 @@ note : u need to change language code from file autoreply/pacalku.py to your lan
   $ sudo apt-get install python3-pip
   $ pip3 install selenium
   $ pip3 install requests
-  $ pip3 install json
   
   
   # Running
